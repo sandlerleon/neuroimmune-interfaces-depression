@@ -69,6 +69,16 @@ references citing a later print-issue year are flagged for review rather than
 treated as errors; each such flag was checked manually against
 `published-print`.
 
+## Citation
+
+Both the manuscript and the code are archived on Zenodo. The **concept DOIs**
+below always resolve to the latest version:
+
+- Paper (Zenodo preprint): [10.5281/zenodo.22730124](https://doi.org/10.5281/zenodo.22730124)
+  — this version: [10.5281/zenodo.22730125](https://doi.org/10.5281/zenodo.22730125)
+- Code (Zenodo software): [10.5281/zenodo.22730126](https://doi.org/10.5281/zenodo.22730126)
+  — this version: [10.5281/zenodo.22730127](https://doi.org/10.5281/zenodo.22730127)
+
 ## License
 
 - Manuscript text and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see `manuscript/LICENSE`
