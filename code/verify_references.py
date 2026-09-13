@@ -10,7 +10,7 @@ import requests
 from docx import Document
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DOCX = os.path.join(HERE, "..", "manuscript", "Neuroimmune_Interfaces_Depression_v3.docx")
+DOCX = os.path.join(HERE, "..", "manuscript", "Neuroimmune_Interfaces_Depression_v5.docx")
 MAILTO = "sandler.leon@gmail.com"
 HEADERS = {"User-Agent": f"ref-verify/1.0 (mailto:{MAILTO})"}
 

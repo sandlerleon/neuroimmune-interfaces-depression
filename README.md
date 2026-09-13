@@ -33,7 +33,7 @@ Two points of scope are stated explicitly in the manuscript and repeated here:
 ## Contents
 
 ```
-manuscript/   Neuroimmune_Interfaces_Depression_v3.docx   (CC BY 4.0)
+manuscript/   Neuroimmune_Interfaces_Depression_v5.docx   (CC BY 4.0)
 code/         generate_figures.py        (MIT) — regenerates Figures 1–2
               figure1_framework.png      framework with evidence-status colour coding
               figure2_falsification.png  falsification decision architecture
@@ -75,7 +75,7 @@ Both the manuscript and the code are archived on Zenodo. The **concept DOIs**
 below always resolve to the latest version:
 
 - Paper (Zenodo preprint): [10.5281/zenodo.22730124](https://doi.org/10.5281/zenodo.22730124)
-  — this version: [10.5281/zenodo.22730125](https://doi.org/10.5281/zenodo.22730125)
+  — current version: [10.5281/zenodo.22731346](https://doi.org/10.5281/zenodo.22731346)
 - Code (Zenodo software): [10.5281/zenodo.22730126](https://doi.org/10.5281/zenodo.22730126)
   — this version: [10.5281/zenodo.22730127](https://doi.org/10.5281/zenodo.22730127)
 
